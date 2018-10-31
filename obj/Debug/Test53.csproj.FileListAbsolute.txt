@@ -1,0 +1,20 @@
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.csprojAssemblyReference.cache
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.Form1.resources
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.Properties.Resources.resources
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.csproj.GenerateResource.cache
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.csproj.CoreCompileInputs.cache
+E:\vs2017c#windows\Test53\Test53\bin\Debug\Test53.exe.config
+E:\vs2017c#windows\Test53\Test53\bin\Debug\Test53.exe
+E:\vs2017c#windows\Test53\Test53\bin\Debug\Test53.pdb
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.exe
+E:\vs2017c#windows\Test53\Test53\obj\Debug\Test53.pdb
+E:\vs2017c#windows\Test53 - 副本\Test53\bin\Debug\Test53.exe.config
+E:\vs2017c#windows\Test53 - 副本\Test53\bin\Debug\Test53.exe
+E:\vs2017c#windows\Test53 - 副本\Test53\bin\Debug\Test53.pdb
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.csprojAssemblyReference.cache
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.Form1.resources
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.Properties.Resources.resources
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.csproj.GenerateResource.cache
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.csproj.CoreCompileInputs.cache
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.exe
+E:\vs2017c#windows\Test53 - 副本\Test53\obj\Debug\Test53.pdb
